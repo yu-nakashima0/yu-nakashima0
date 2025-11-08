@@ -9,4 +9,4 @@ I work on Machine Learning, Data Analysis, and developing predictive models.
 ## 🔭 Current Projects
 - Predicting loan default
 - Kaggle competitions
-
+-->
