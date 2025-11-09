@@ -9,4 +9,4 @@ I work on Machine Learning, Data Analysis, and developing predictive models.
 - Kaggle competitions
 
 ## 📚 Learning Progress 
-- - Exploring how to build interactive **data science pipelines** with **Streamlit**
+- Exploring how to build interactive **data science pipelines** with **Streamlit**
