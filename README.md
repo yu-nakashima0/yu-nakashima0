@@ -5,7 +5,7 @@ I'm interested in **Data Science** and most of my projects are in **Python**.
 I work on Machine Learning, Data Analysis, and developing predictive models.
 
 ## 🔭 Current Projects
-- Predicting loan default and creating interactiv app(https://predicting-loan-default.streamlit.app) using streamlit
+- A loan default prediction model and interactive Streamlit app (https://predicting-loan-default.streamlit.app) built using an XGBClassifier tuned with Optuna.
 - Participating in Kaggle competitions with CSV datasets
 
 ## 📚 Learning Progress 
