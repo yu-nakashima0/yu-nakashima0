@@ -7,7 +7,7 @@ I work on Machine Learning, Data Analysis, and developing predictive models.
 ## 🔭 Current Projects
 - A loan default prediction model and interactive Streamlit app (https://predicting-loan-default.streamlit.app) built using an XGBClassifier tuned with Optuna.
 - Participating in Kaggle competitions with CSV datasets
-- recognition handsign via Camera of Streamlit app
+- recognition handsign with CNN-model via camera of Streamlit app
 
 ## 📚 Learning Progress 
 - Exploring how to build interactive **data science pipelines** with **Streamlit**
