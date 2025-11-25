@@ -14,6 +14,6 @@ Lately, I've also been exploring **Web Development and Web Security** using **Fl
 - Learning **secure web application development** with Flask, including authentication, session management, and protection against common attacks like CSRF and XSS.
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=yu-nakashima0&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yu-nakashima0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yu-nakashima0&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-nakashima0&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
