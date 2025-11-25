@@ -6,7 +6,7 @@ I work on Machine Learning, Data Analysis, and developing predictive models.
 Lately, I've also been exploring **Web Development and Web Security** using **Flask**, building web applications while learning about secure coding practices and common web vulnerabilities.
 
 ## 🔭 Current Projects
-- A loan default prediction model and interactive Streamlit app built using an XGBClassifier tuned with Optuna.
+- Building a loan default prediction model and interactive Streamlit app using an XGBClassifier tuned with Optuna.
 - Participating in Kaggle competitions with CSV datasets
 
 ## 📚 Learning Progress 
